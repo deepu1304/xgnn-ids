@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+models/graphsage_model.pt
+.DS_Store
+.streamlit/
+__pycache__/
+*.pyc
+models/graphsage_model.pt
